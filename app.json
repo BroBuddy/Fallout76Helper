@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Fallout76Helper",
+    "slug": "fallout-76-helper",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000",
+    "splash": {
+      "resizeMode": "contain",
+      "image": "./assets/logo.png",
+      "backgroundColor": "#000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.Fallout76Helper"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000"
+      },
+      "package": "com.anonymous.Fallout76Helper"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "myapptabsexporouter",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3faac23a-c086-4dc4-accb-04ed66fd0d28"
+      }
+    },
+    "owner": "brobuddy"
+  }
+}

@@ -1,0 +1,425 @@
+[
+  {
+    "id": "001",
+    "name": "The Forest",
+    "data": [
+      {
+        "id": "001",
+        "name": "Vault 76",
+        "icon": null,
+        "crafting": ["Cooking Station"],
+        "holotapes": [
+          {
+            "name": "Nuka Tapper",
+            "info": "On your terminal"
+          },
+          {
+            "name": "Overseer's Log - Vault 76",
+            "info": "On the terminal in the Oveseer's office"
+          }
+        ]
+      },
+      {
+        "id": "002",
+        "name": "Moonshiner's Shack",
+        "icon": null,
+        "crafting": ["Brewing Station", "Cooking Station", "Weapons Workbench"]
+      },
+      {
+        "id": "003",
+        "name": "North Kanawha Lookout",
+        "icon": null,
+        "crafting": ["Cooking Station", "Weapons Workbench"],
+        "weapons": [
+          {
+            "name": "Guitar Sword",
+            "info": "To the back of the large wooden house, by the door"
+          },
+          {
+            "name": "Sickleman's Sickle",
+            "info": "Located underneath the large house here - enter from the south and turn right immediately to find the sickle (beside the 'Sickleman was here' writing)."
+          }
+        ]
+      },
+      {
+        "id": "004",
+        "name": "Landview Lighthouse",
+        "icon": null,
+        "bobbleheads": [
+          {
+            "name": "Bobblehead",
+            "info": "In one of the small windows on the stairs"
+          }
+        ],
+        "holotapes": [
+          {
+            "name": "Where am I?",
+            "info": "Located by the picnic tables just north of the light house. It can be found next to the dead body on the table."
+          }
+        ]
+      },
+      {
+        "id": "005",
+        "name": "Isolated Cabin",
+        "icon": null,
+        "crafting": ["Cooking Station", "Weapons Workbench"]
+      },
+      {
+        "id": "006",
+        "name": "Wixon Homestead",
+        "icon": null,
+        "crafting": ["Armor Workbench"]
+      },
+      {
+        "id": "007",
+        "name": "Gilman Lumber Mill",
+        "icon": null,
+        "crafting": ["Tinker's Workbench", "Weapons Workbench"]
+      },
+      {
+        "id": "008",
+        "name": "Overseer's Camp",
+        "icon": null,
+        "crafting": ["Armor Workbench", "Cooking Station", "Weapons Workbench"],
+        "holotapes": [
+          {
+            "name": "Overseer's Log - C.A.M.P.",
+            "info": "Found during the quest First Contact."
+          }
+        ],
+        "caches": [
+          {
+            "name": "Overseer's Cache",
+            "info": null
+          }
+        ],
+        "treasures": [
+          {
+            "name": "Forest Treasure #6",
+            "info": "The mound is right beside the water"
+          }
+        ]
+      },
+      {
+        "id": "009",
+        "name": "Green Country Lodge",
+        "icon": null,
+        "holotapes": [
+          {
+            "name": "Gym Session Notes",
+            "info": "Inside Green Country Lodge, in the workout room. On top of a shelf, next to a radio"
+          },
+          {
+            "name": "Who Goes there? - Part 1",
+            "info": "On the table with a radio"
+          },
+          {
+            "name": "Survivor Story: Willie Mae",
+            "info": "On Willie Mae's corpse, on the front porch of his house."
+          },
+          {
+            "name": "Survivor story: Sofie",
+            "info": "In the church bell tower - inside a cooler"
+          }
+        ]
+      },
+      {
+        "id": "010",
+        "name": "Flatwoods Lookout",
+        "icon": null,
+        "treasures": [
+          {
+            "name": "Toxic Valley Treasure Map #2",
+            "info": "Carried by a Feral Ghoul Roamer in the area. You'll need to kill and loot him to get the map"
+          }
+        ]
+      },
+      {
+        "id": "011",
+        "name": "Relay Tower EM-B1-27",
+        "icon": null
+      },
+      {
+        "id": "012",
+        "name": "Alpine River Cabins",
+        "icon": null,
+        "bobbleheads": [
+          {
+            "name": "Bobblehead",
+            "info": "In the south-east shack (under the bunk-bed)"
+          }
+        ],
+        "holotapes": [
+          {
+            "name": "Alpine River Cabins Complaint",
+            "info": "Inside one of the cabins"
+          }
+        ]
+      },
+      {
+        "id": "013",
+        "name": "Twin Pine Cabins",
+        "icon": null,
+        "crafting": ["Cooking Station", "Weapons Workbench"]
+      },
+      {
+        "id": "014",
+        "name": "Flatwoods",
+        "icon": null,
+        "crafting": [
+          "Armor Workbench",
+          "Chemistry Station",
+          "Cooking Station",
+          "Tinker's Workbench",
+          "Weapons Workbench"
+        ],
+        "holotapes": [
+          {
+            "name": "Survivor Story: Kesha McDermott",
+            "info": "On Kesha McDermott's body, next to the river"
+          },
+          {
+            "name": "Survivor Story: Dassa Ben-Ami",
+            "info": "Inside the church, on a corpse laying on a medical table"
+          },
+          {
+            "name": "Survivor Story: Miguel Caldera",
+            "info": "In front of one of the houses on a porch. Inside a locker"
+          },
+          {
+            "name": "Overseer's Log - Flatwoods",
+            "info": "Found inside the Overseer's Cache"
+          },
+          {
+            "name": "Overseer's Cache",
+            "info": "Found inside the white church"
+          },
+          {
+            "name": "Survivor Story: Responder Colonel",
+            "info": "On the porch of a red house. On one of the corpses"
+          },
+          {
+            "name": "Survivor story: Tabitha",
+            "info": "Inside the Flatwoods Tavern, upstairs, on a small dining table in the back"
+          },
+          {
+            "name": "Flatwoods Tavern Purchase Order History",
+            "info": "Found in the kitchen of Flatwoods Tavern, inside a footlocker"
+          },
+          {
+            "name": "Survivor Story: Nurse Scott",
+            "info": "Out the back of one of the houses - between two white bathtubs"
+          },
+          {
+            "name": "Survivor Story: Rev. Delbert Winters",
+            "info": "Inside Reverend Delbert Winters' house - in the back room on his corpse"
+          }
+        ]
+      },
+      {
+        "id": "015",
+        "name": "Valut-Tec Agricultural Research Center",
+        "icon": null,
+        "bobbleheads": [
+          {
+            "name": "Bobblehead",
+            "info": "Found in an upstairs office in a filing cabinet tray"
+          },
+          {
+            "name": "Bobblehead",
+            "info": "Found in the dry part of the basement laboratory, on a metal desk"
+          },
+          {
+            "name": "Bobblehead",
+            "info": "Enter through the main door and take a right. The Bobblehead spawns in a urinal in the bathroom"
+          },
+          {
+            "name": "Bobblehead",
+            "info": "Found in a rusty open fridge in the corner of the hydroponics room"
+          }
+        ],
+        "holotapes": [
+          {
+            "name": "Overseer's Journal: Entry #1",
+            "info": null
+          }
+        ],
+        "magazines": [
+          {
+            "name": "Magazine",
+            "info": "Found in the dry part of the basement laboratory, by the sink in the washroom area"
+          },
+          {
+            "name": "Magazine",
+            "info": "Found in the upstairs office, on a desk with the ruined telephone and terminal"
+          },
+          {
+            "name": "Magazine",
+            "info": "Found on a shelf in a small storage room, between the conference room and the filing room"
+          },
+          {
+            "name": "Magazine",
+            "info": "Found in the office with Macfadden's Terminal, on top of the cardboard boxes on the sofa"
+          }
+        ]
+      },
+      {
+        "id": "016",
+        "name": "Anchor Farm",
+        "icon": null,
+        "crafting": [
+          "Armor Workbench",
+          "Chemistry Station",
+          "Cooking Station",
+          "Tinker's Workbench",
+          "Weapons Workbench"
+        ],
+        "treasures": [
+          {
+            "name": "Forest Treasure #4",
+            "info": "By the left wing of a yellow airplane (near the yellow building)"
+          }
+        ]
+      },
+      {
+        "id": "017",
+        "name": "Transmission Station 1AT-U03",
+        "icon": null,
+        "crafting": ["Tinker's Workbench"]
+      },
+      {
+        "id": "018",
+        "name": "Tyler Country Fairgrounds",
+        "icon": null,
+        "bobbleheads": [
+          {
+            "name": "Bobblehead",
+            "info": "Inside the metal shack with all the pumpkins/Halloween decorations. Located on the table beside some pumpkins"
+          },
+          {
+            "name": "Bobblehead",
+            "info": "Found by the giant Nuka-Cola Bottle, on a metal shelf with the Nuka-Cherry and Nuka-Cola bottles"
+          },
+          {
+            "name": "Bobblehead",
+            "info": "Found by the two token machines in the metal sheds by the Hoop Shots games"
+          }
+        ],
+        "crafting": ["Cooking Station", "Tinker's Workbench"],
+        "magazines": [
+          {
+            "name": "Magazine",
+            "info": "Found in the empty metal hay barn, on top of a barrel"
+          },
+          {
+            "name": "Magazine",
+            "info": "Found in one of the green outdoor toilets, by the Apples / Hotdogs stall"
+          },
+          {
+            "name": "Magazine",
+            "info": "Found in the green and white prize booth stall, on a shelf with the toy rocketships on it"
+          }
+        ],
+        "weapons": [
+          {
+            "name": "Commie Whacker",
+            "info": "On top of the whack-a-mole games, inside the fair ground"
+          }
+        ]
+      },
+      {
+        "id": "019",
+        "name": "Deathclaw Island",
+        "icon": null
+      },
+      {
+        "id": "020",
+        "name": "Black Mountain Ordnance Works",
+        "icon": null,
+        "weapons": [
+          {
+            "name": "Short Pump Action Shotgun",
+            "info": "Inside a small white concrete bunker, on the desk"
+          }
+        ]
+      },
+      {
+        "id": "021",
+        "name": "Marigold Pavilion",
+        "icon": null,
+        "crafting": ["Cooking Station", "Weapons Workbench"]
+      },
+      {
+        "id": "022",
+        "name": "Point Pleasant",
+        "icon": null,
+        "crafting": [
+          "Cooking Station",
+          "Power Armor Station",
+          "Tinker's Workbench",
+          "Weapons Workbench"
+        ],
+        "holotapes": [
+          {
+            "name": "The Mothman Cometh - Part 1",
+            "info": "On the front counter at the Mothman Museum"
+          },
+          {
+            "name": "The Mothman Cometh - Part 2",
+            "info": "On a TV cabinet, in an apartment across from the bus stop"
+          },
+          {
+            "name": "Interloper",
+            "info": "In an apartment, across from the Point Pleasant night stand. On a night stand"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Toxic Valley",
+    "data": [
+      {
+        "id": "100",
+        "name": "Eastern Regional Penitentiary",
+        "icon": null
+      },
+      {
+        "id": "101",
+        "name": "Grafton Dam",
+        "icon": null
+      },
+      {
+        "id": "102",
+        "name": "Grafton Station",
+        "icon": null
+      },
+      {
+        "id": "103",
+        "name": "Grafton",
+        "icon": null
+      },
+      {
+        "id": "104",
+        "name": "Smith Farm",
+        "icon": "Farm"
+      },
+      {
+        "id": "105",
+        "name": "Becker Farm",
+        "icon": "Farm"
+      },
+      {
+        "id": "106",
+        "name": "Cobbleton Farm",
+        "icon": "Farm"
+      },
+      {
+        "id": "107",
+        "name": "Lady Janet's Soft Serve",
+        "icon": null
+      }
+    ]
+  }
+]
